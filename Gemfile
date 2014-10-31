@@ -43,3 +43,6 @@ end
 
 # Use debugger
 # gem 'debugger', group: [:development, :test]
+
+# http://www.fig.sh/rails.html
+gem 'therubyracer', platforms: :ruby
